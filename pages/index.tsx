@@ -28,7 +28,7 @@ const IndexPage = () => (
       <Card>
         <h1>Wongsakorn Chugasem</h1>
         <TextCenter>Devleloper@ODDS</TextCenter>
-        <TextCenter>Email: contract@miwtoo.me</TextCenter>
+        <TextCenter>Email: contract@miwtoo.com</TextCenter>
         <LinkCenter>
           <a href="https://github.com/miwtoo">Github</a>
         <a href="https://www.facebook.com/miwtoo">Facebook</a>
